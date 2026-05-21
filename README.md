@@ -71,9 +71,11 @@ while True:
 ~~~
 ## OUPUT 
 CLIENT: 
+
 <img width="509" height="178" alt="Screenshot 2026-05-21 140812" src="https://github.com/user-attachments/assets/c4efecee-10f1-4cb2-a492-39d50733a1b8" />
 
 SERVER: 
+
 <img width="976" height="443" alt="Screenshot 2026-05-21 140727" src="https://github.com/user-attachments/assets/40f3d732-4e42-4c6c-a4a7-4d7a1f9108da" />
 
 ## RESULT
